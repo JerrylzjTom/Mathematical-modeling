@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1\,.\,1}Background}{1}{}%
+\contentsline {subsection}{\numberline {1\,.\,2}Restratment of Problems}{1}{}%
+\contentsline {subsection}{\numberline {1\,.\,3}Models}{1}{}%
+\contentsline {section}{\numberline {2}Data Description}{2}{}%
+\contentsline {section}{\numberline {3}Symbols and Assumptions}{2}{}%
+\contentsline {subsection}{\numberline {3\,.\,1}Symbol Description}{2}{}%
+\contentsline {subsection}{\numberline {3\,.\,2}Assumptions}{2}{}%
+\contentsline {section}{\numberline {4}Models and Solutions}{3}{}%
+\contentsline {subsection}{\numberline {4\,.\,1}Question1}{3}{}%
+\contentsline {paragraph}{Data Pre-processing}{3}{}%
+\contentsline {paragraph}{Grey Relation Analysis}{5}{}%
+\contentsline {paragraph}{Multiple linear regression model}{6}{}%
+\contentsline {subsection}{\numberline {4\,.\,2}Question2}{7}{}%
+\contentsline {paragraph}{LSTM}{7}{}%
+\contentsline {paragraph}{ARIMA}{9}{}%
+\contentsline {subsection}{\numberline {4\,.\,3}Question3}{12}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,1}Exponential Fitting Model Introduction}{13}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,2}Logarithmic Regression Curve }{13}{}%
+\contentsline {subsection}{\numberline {4\,.\,4}Question4}{14}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,4\,.\,1}Policy collection}{14}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,4\,.\,2}Grey Forecasting}{15}{}%
+\contentsline {subsection}{\numberline {4\,.\,5}Question5 and Question6}{16}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,5\,.\,1}Towards a Clean Future: The Ecological Choice of New Energy Electric Vehicles}{18}{}%
+\contentsline {section}{\numberline {5}Conclusions}{18}{}%
+\contentsline {subsection}{\numberline {5\,.\,1}Conclusions of the problem}{18}{}%
+\contentsline {subsection}{\numberline {5\,.\,2}Methods used in our models}{18}{}%
+\contentsline {section}{\numberline {6}References}{19}{}%
+\contentsline {section}{\numberline {7}Appendix}{20}{}%
+\contentsfinish 

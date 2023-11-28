@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{LSTM}
+马佳骥, 马春驰, 曾俊, 邓叶林, and 易聪.
+\newblock 基于 lstm 多变种模型的岩爆微震参数预测研究.
+\newblock {\em 地下空间与工程学报}, 18(5):1481--1494, 2016.
+
+\bibitem{ARIMA}
+戢晓峰 and 戈艺澄.
+\newblock 基于深度学习的节假日高速公路交通流预测方法.
+\newblock {\em 系统仿真学报}, 32(6):1164, 2020.
+
+\bibitem{HZ}
+应紫敏, 吴旭, and 杨武.
+\newblock 杭州市公交车油改电项目碳排放效益核算.
+\newblock {\em 生态学报}, 38(18):6452--6464, 2018.
+
+\bibitem{1234}
+李书华.
+\newblock {\em 电动汽车全生命周期分析及环境效益评价}.
+\newblock PhD thesis, 长春: 吉林大学, 2014.
+
+\bibitem{unep2019emissions}
+N~UNEP.
+\newblock Emissions gap report 2019.
+\newblock {\em Executive Summary}, 2019.
+
+\bibitem{47}
+潘湘源.
+\newblock {\em 基于生命周期理论的纯电动汽车碳排放研究}.
+\newblock PhD thesis, 硕士学位论文. 上海: 同济大学, 2014.
+
+\end{thebibliography}
